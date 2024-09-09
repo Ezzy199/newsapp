@@ -42,7 +42,7 @@ class CategoryModel {
           color: Color(0xffF2D352)),
       CategoryModel(
           id: 'sports',
-          name: 'Sports',
+          name: 'Sport',
           image: 'assets/images/sports.png',
           color: Color(0XFFc91c22)),
       CategoryModel(

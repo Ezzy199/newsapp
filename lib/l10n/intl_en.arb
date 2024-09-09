@@ -1,0 +1,10 @@
+{
+    "title":"News App",
+   "categories":" Categories",
+   "settings":"Settings",
+   "news_title":"News Title",
+   "language":"Language",
+   "arabic":"arabic",
+   "english":"english",
+   "view_full_article":"view full article"
+}
